@@ -1,0 +1,28 @@
+Calibration                  |         GeoChem            |           Soil               
+                             | slope   y-int      Rsq     | slope     y-int      Rsq     
+                             |                            |                              
+General Calibration          |  1.164      -5.27   0.9146 |    1.652     -87.13    0.9662
+Sr (pXRF) vs. Sr88 (ICP-MS)  | 0.9155      165.4   0.9514 |    1.775      147.6    0.8574
+Y (pXRF) vs. Y89 (ICP-MS)    |   1.13      3.459   0.9949 |    1.991     -7.172    0.9696
+Mo (pXRF) vs. Mo95 (ICP-MS)  |  1.327      12.41   0.4976 |     2.02     -1.242    0.7199
+Ag (pXRF) vs. Ag107 (ICP-MS) |      0          0        0 |        0          0         0
+Cd (pXRF) vs. Cd111 (ICP-MS) |      0          0        0 |        0          0         0
+Ba (pXRF) vs. Ba137 (ICP-MS) |    NaN        NaN      NaN |   0.6883      3.384    0.9362
+Nd (pXRF) vs. Nd146 (ICP-MS) |    NaN        NaN      NaN |        0          0         0
+Pb (pXRF) vs. Pb208 (ICP-MS) |   1.36      10.44   0.9573 |    1.407      9.751    0.9671
+Th (pXRF) vs. Th232 (ICP-MS) | 0.6802      43.79  0.06925 |   0.2786      4.842  0.001986
+U (pXRF) vs. U238 (ICP-MS)   |  3.212    -0.9789   0.3018 |        0          0         0
+Mg (pXRF) vs. Mg24 (ICP-MS)  |  1.232      -1455   0.4137 |      NaN        NaN       NaN
+Al (pXRF) vs. Al27 (ICP-MS)  | 0.9199      69.65   0.9749 |      NaN        NaN       NaN
+P (pXRF) vs. P31 (ICP-MS)    | 0.7635     -196.4   0.9112 |        0          0         0
+S (pXRF) vs. S32 (ICP-MS)    | 0.8207        748   0.5285 |   0.5395       3357    0.2082
+Ca (pXRF) vs. Ca42 (ICP-MS)  | 0.9399  6.226e+04   0.8714 |    1.865  3.311e+04    0.8719
+Ti (pXRF) vs. Ti47 (ICP-MS)  |  1.494      209.7   0.9676 |    1.202     -1.248     0.964
+V (pXRF) vs. V51 (ICP-MS)    |  1.402      6.725   0.6117 |    1.266      16.48    0.8721
+Cr (pXRF) vs. Cr52 (ICP-MS)  | 0.1694    -0.8919  0.04767 |    1.698     -7.598    0.8119
+Mn (pXRF) vs. Mn55 (ICP-MS)  |  1.467     -19.02   0.9902 |     1.13     -148.4    0.9933
+Fe (pXRF) vs. Fe56 (ICP-MS)  |  1.452       -148   0.9883 |    1.796      -2935    0.9824
+Co (pXRF) vs. Co59 (ICP-MS)  |      0          0        0 | -0.07583      7.779   0.02315
+Ni (pXRF) vs. Ni60 (ICP-MS)  |  1.537      1.812   0.9814 |    1.767     -11.83    0.9851
+Cu (pXRF) vs. Cu63 (ICP-MS)  |  1.722      3.927   0.9873 |    1.573      4.661    0.9875
+Zn (pXRF) vs. Zn66 (ICP-MS)  |  1.707       16.8   0.9797 |    1.718      16.45    0.9726
